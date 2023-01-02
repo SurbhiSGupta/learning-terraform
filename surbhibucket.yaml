@@ -1,0 +1,9 @@
+api_version: v2
+kind: Bucket
+spec:
+  bucket:
+    labels:
+      - name: surbhilabel
+        value: trial
+    name: surbhitestbucket
+    slug: surbhi-test-bucket-slug
